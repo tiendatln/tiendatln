@@ -1,150 +1,150 @@
-# 👋 Xin chào, Tôi là Tiến Đạt
+# 👋 Hello, I'm Tiến Đạt / こんにちは、ティエン・ダットです
 
-**Full-Stack Developer | Java | C# | Web Development**
+**Full-Stack Developer | Java | C# | Web Development / フルスタック開発者 | Java | C# | Web開発**
 
-Chào mừng đến với GitHub của tôi! Tôi là một lập trình viên đa năng với kinh nghiệm trong phát triển ứng dụng backend, frontend và game development. Tôi đam mê xây dựng các giải pháp phần mềm hiệu quả và có thể mở rộng.
-
----
-
-## 🛠️ Kỹ Năng Chính
-
-### Ngôn Ngữ Lập Trình
-- **Java** - Backend development, OOP, Spring Framework
-- **C#** - Windows applications, Game Development, LINQ
-- **HTML/CSS** - Frontend development, Web design
-- **SQL** - Database design và optimization
-
-### Lĩnh Vực Chuyên Môn
-- 🎮 Game Development (Unity)
-- 🏢 Enterprise Applications
-- 📱 Web Applications
-- 📊 Database Management
-- 🏗️ Software Architecture
+Welcome to my GitHub profile! I am a versatile programmer with experience in backend, frontend, and game development. I am passionate about building practical, scalable, and user-friendly software solutions. / GitHubへようこそ！私はバックエンド、フロントエンド、ゲーム開発に携わった経験を持つマルチスキルなプログラマーです。実用的でスケーラブル、使いやすいソフトウェアを作ることに情熱を注いでいます。
 
 ---
 
-## 📚 Các Dự Án Nổi Bật
+## 🛠️ Core Skills / 主なスキル
 
-### 1. **Book-Hub** - Nền Tảng Quản Lý Sách
-- **Công nghệ**: Java, Spring Framework, SQL
-- **Mô tả**: Ứng dụng quản lý thư viện sách với tính năng tìm kiếm, lọc và quản lý người dùng
-- **Tính năng**: 
-  - ✅ Quản lý danh mục sách
-  - ✅ Hệ thống người dùng
-  - ✅ Tìm kiếm nâng cao
+### Programming Languages / プログラミング言語
+- **Java** - Backend development, OOP, Spring Framework / バックエンド開発、オブジェクト指向、Spring Framework
+- **C#** - Windows applications, Game Development, LINQ / Windowsアプリ開発、ゲーム開発、LINQ
+- **HTML/CSS** - Frontend development, Web design / フロントエンド開発、Webデザイン
+- **SQL** - Database design and optimization / データベース設計と最適化
+
+### Specializations / 専門分野
+- 🎮 Game Development (Unity) / ゲーム開発（Unity）
+- 🏢 Enterprise Applications / エンタープライズアプリケーション
+- 📱 Web Applications / Webアプリケーション
+- 📊 Database Management / データベース管理
+- 🏗️ Software Architecture / ソフトウェアアーキテクチャ
+
+---
+
+## 📚 Featured Projects / 注目のプロジェクト
+
+### 1. **Book-Hub** - Book Management Platform / 書籍管理プラットフォーム
+- **Technology**: Java, Spring Framework, SQL / 技術: Java, Spring Framework, SQL
+- **Description**: A library management application with search, filtering, and user management features / 説明: 書籍検索、フィルタリング、ユーザー管理機能を備えた図書管理アプリ
+- **Features**:
+  - ✅ Book category management / 書籍カテゴリ管理
+  - ✅ User system / ユーザー管理
+  - ✅ Advanced search / 高度な検索
 - **Repository**: [Book-Hub](https://github.com/tiendatln/Book-Hub) | [UI](https://github.com/tiendatln/Book-Hub-UI)
 
-### 2. **Mini-Tower-Defense** - Trò Chơi Phòng Thủ
-- **Công nghệ**: C#, Unity
-- **Mô tả**: Trò chơi Tower Defense với AI enemy, múi hiệu ứng âm thanh và hệ thống bạn bè
-- **Tính năng**:
-  - 🎮 Gameplay mượt mà
-  - 🎵 Sound effects
-  - 🤖 AI thông minh
+### 2. **Mini-Tower-Defense** - Tower Defense Game / タワーディフェンスゲーム
+- **Technology**: C#, Unity / 技術: C#, Unity
+- **Description**: A tower defense game with enemy AI, sound effects, and friend system / 説明: 敵AI、サウンドエフェクト、フレンドシステムを搭載したタワーディフェンスゲーム
+- **Features**:
+  - 🎮 Smooth gameplay / スムーズなゲームプレイ
+  - 🎵 Sound effects / 効果音
+  - 🤖 Smart AI / スマートなAI
 - **Repository**: [Mini-Tower-Defense](https://github.com/tiendatln/Mini-Tower-Defense)
 
-### 3. **Hotel Booking System** - Hệ Thống Đặt Phòng
-- **Công nghệ**: HTML, CSS, JavaScript
-- **Mô tả**: Ứng dụng web đặt phòng khách sạn với giao diện responsive
-- **Tính năng**:
-  - 🏨 Duyệt phòng
-  - 📅 Quản lý đặt phòng
-  - 💳 Hệ thống thanh toán
+### 3. **Hotel Booking System** - Hotel Booking Website / ホテル予約システム
+- **Technology**: HTML, CSS, JavaScript / 技術: HTML, CSS, JavaScript
+- **Description**: A hotel booking web application with a responsive interface / 説明: レスポンシブデザインのホテル予約Webアプリ
+- **Features**:
+  - 🏨 Room browsing / 宿泊施設の閲覧
+  - 📅 Booking management / 予約管理
+  - 💳 Payment system / 決済システム
 - **Repository**: [Project_Hotel_Booking](https://github.com/tiendatln/Project_Hotel_Booking)
 
-### 4. **BakeryShop** - Ứng Dụng Quản Lý Tiệm Bánh
-- **Công nghệ**: C#, SQL
-- **Mô tả**: Phần mềm quản lý tiệm bánh bao gồm hóa đơn, kho hàng, nhân viên
+### 4. **BakeryShop** - Bakery Management Application / ベーカリー管理アプリ
+- **Technology**: C#, SQL / 技術: C#, SQL
+- **Description**: A bakery management system including billing, inventory, and employee management / 説明: 請求書、在庫、従業員管理を含むベーカリー管理ソフトウェア
 - **Repository**: [BakeryShop](https://github.com/tiendatln/BakeryShop)
 
-### 5. **SWP391** - Dự Án Tốt Nghiệp
-- **Công nghệ**: Java, Spring Boot, React/Angular
-- **Mô tả**: Dự án capstone với full-stack architecture
+### 5. **SWP391** - Graduation Project / 卒業制作
+- **Technology**: Java, Spring Boot, React/Angular / 技術: Java, Spring Boot, React/Angular
+- **Description**: A capstone project with full-stack architecture / 説明: フルスタックアーキテクチャを採用したキャップストーンプロジェクト
 - **Repository**: [SWP391](https://github.com/tiendatln/SWP391)
 
-### Các Dự Án Khác
-- **Employee_application** - Quản lý nhân sự
-- **JAVA_Sort** - Algorithms & Data Structures
-- **demo-LinQ** - LINQ fundamentals với C#
-- **tratruongai** - Web project
+### Other Projects / その他のプロジェクト
+- **Employee_application** - Human resource management / 人事管理
+- **JAVA_Sort** - Algorithms & Data Structures / アルゴリズムとデータ構造
+- **demo-LinQ** - LINQ fundamentals with C# / C#で学ぶLINQ基礎
+- **tratruongai** - Web project / Webプロジェクト
 
 ---
 
-## 📊 Thống Kê & Thành Tích
+## 📊 Statistics & Achievements / 統計と実績
 
-- 🌟 **13+** repositories công khai
-- 💻 **Ngôn ngữ chính**: Java (30%), C# (30%), Web (20%), Khác (20%)
-- 🎯 **Focus**: Full-Stack Development, Game Development, Enterprise Solutions
-
----
-
-## 🎓 Học Tập & Phát Triển
-
-Tôi liên tục cải thiện kỹ năng của mình thông qua:
-- 📖 Học các công nghệ mới (microservices, cloud, DevOps)
-- 🔬 Thực nghiệm với các frameworks và libraries mới
-- 🤝 Tham gia các dự án open-source
-- 📚 Nghiên cứu best practices trong software engineering
+- 🌟 **13+** public repositories / 公開リポジトリ数: 13件以上
+- 💻 **Main languages**: Java (30%), C# (30%), Web (20%), Other (20%) / 主な言語: Java (30%)、C# (30%)、Web (20%)、その他 (20%)
+- 🎯 **Focus**: Full-Stack Development, Game Development, Enterprise Solutions / 焦点: フルスタック開発、ゲーム開発、エンタープライズソリューション
 
 ---
 
-## 🌐 Kết Nối
+## 🎓 Learning & Growth / 学習と成長
 
-- 📧 **Email**: [liên hệ thông qua GitHub]
+I continuously improve my skills through:
+- 📖 Learning new technologies (microservices, cloud, DevOps) / 新しい技術を学ぶ（マイクロサービス、クラウド、DevOps）
+- 🔬 Experimenting with new frameworks and libraries / 新しいフレームワークやライブラリを試す
+- 🤝 Participating in open-source projects / オープンソースプロジェクトに参加する
+- 📚 Studying best practices in software engineering / ソフトウェアエンジニアリングのベストプラクティスを学ぶ
+
+---
+
+## 🌐 Connect / つながる
+
+- 📧 **Email**: [contact via GitHub] / メール: [GitHub経由でお問い合わせ]
 - 🔗 **GitHub**: [@tiendatln](https://github.com/tiendatln)
-- 💼 **Quan tâm**: Backend development, Game development, System design
+- 💼 **Interests**: Backend development, Game development, System design / 興味分野: バックエンド開発、ゲーム開発、システム設計
 
 ---
 
-## 🎯 Mục Tiêu Sự Nghiệp
+## 🎯 Career Goals / キャリア目標
 
-Tôi đang tìm kiếm các cơ hội để:
-- 🚀 Làm việc trên các dự án lớn, có tác động cao
-- 🏢 Phát triển kinh nghiệm enterprise development
-- 🎓 Học hỏi từ các senior engineers
-- 🌍 Đóng góp cho cộng đồng tech
-
----
-
-## 💡 Những Điều Tôi Học Được
-
-### Best Practices
-- Clean Code & SOLID Principles
-- Design Patterns (MVC, Repository, Factory, etc.)
-- Test-Driven Development
-- Version Control (Git)
-
-### Công Cụ & Nền Tảng
-- **IDEs**: Visual Studio, IntelliJ IDEA, VS Code
-- **Database**: SQL Server, MySQL
-- **Version Control**: Git, GitHub
-- **Tools**: Maven, Gradle, NuGet
+I am currently looking for opportunities to:
+- 🚀 Work on large, high-impact projects / 大規模でインパクトの大きいプロジェクトに携わる
+- 🏢 Build expertise in enterprise development / エンタープライズ開発の経験を積む
+- 🎓 Learn from senior engineers / シニアエンジニアから学ぶ
+- 🌍 Contribute to the tech community / 技術コミュニティに貢献する
 
 ---
 
-## 📝 Hướng Dẫn Sử Dụng Repository Của Tôi
+## 💡 What I Have Learned / 学んだこと
 
-Hầu hết các repository của tôi bao gồm:
-- 📖 README chi tiết (hướng dẫn cài đặt)
-- 📂 Cấu trúc dự án rõ ràng
-- 💾 Database scripts (nếu áp dụng)
-- 🚀 Quick start guide
+### Best Practices / ベストプラクティス
+- Clean Code & SOLID Principles / クリーンコードとSOLID原則
+- Design Patterns (MVC, Repository, Factory, etc.) / デザインパターン（MVC、Repository、Factoryなど）
+- Test-Driven Development / テスト駆動開発
+- Version Control (Git) / バージョン管理（Git）
 
----
-
-## 📄 License
-
-Các dự án của tôi được phát hành dưới các license khác nhau. Vui lòng kiểm tra từng repository để biết chi tiết.
-
----
-
-## 🙏 Cảm Ơn
-
-Cảm ơn bạn đã ghé thăm GitHub của tôi! 
-Nếu bạn thích các dự án này, hãy ⭐ star chúng. 
-
-**Hãy kết nối với tôi và cùng nhau xây dựng những thứ tuyệt vời!** 🚀
+### Tools & Platforms / ツールとプラットフォーム
+- **IDEs**: Visual Studio, IntelliJ IDEA, VS Code / IDE: Visual Studio, IntelliJ IDEA, VS Code
+- **Database**: SQL Server, MySQL / データベース: SQL Server, MySQL
+- **Version Control**: Git, GitHub / バージョン管理: Git, GitHub
+- **Tools**: Maven, Gradle, NuGet / ツール: Maven, Gradle, NuGet
 
 ---
 
-*Cập nhật lần cuối: 2026*
+## 📝 How I Use My Repositories / リポジトリの使い方
+
+Most of my repositories include:
+- 📖 Detailed README (setup instructions) / 詳細なREADME（セットアップ手順）
+- 📂 Clear project structure / 明確なプロジェクト構成
+- 💾 Database scripts (if applicable) / データベーススクリプト（必要な場合）
+- 🚀 Quick start guide / クイックスタートガイド
+
+---
+
+## 📄 License / ライセンス
+
+My projects are released under different licenses depending on the repository. Please check each repository for details. / 私のプロジェクトはリポジトリごとに異なるライセンスのもとで公開されています。詳細は各リポジトリをご確認ください。
+
+---
+
+## 🙏 Thank You / 感謝
+
+Thank you for visiting my GitHub profile! / GitHubプロフィールをご覧いただきありがとうございます。
+If you like my projects, please ⭐ star them. / 気に入っていただけたら、ぜひ各プロジェクトに⭐を付けてください。
+
+**Let’s connect and build amazing things together!** 🚀 / **ぜひつながって、一緒に素晴らしいものを作りましょう！** 🚀
+
+---
+
+*Last updated: 2026 / 最終更新: 2026*
