@@ -1,211 +1,112 @@
-# 👋 Hello, I'm Tiến Đạt / こんにちは、ティエン・ダットです
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-Java%20%7C%20C%23%20%7C%20Web-blue?style=for-the-badge&logo=github" alt="Developer Badge" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Status Badge" />
-</p>
-
 <div align="center">
-  <h3>Full-Stack Developer | Java | C# | Web Development / フルスタック開発者 | Java | C# | Web開発</h3>
-  <p>Welcome to my GitHub profile! I am a versatile programmer with experience in backend, frontend, and game development. I am passionate about building practical, scalable, and user-friendly software solutions.</p>
+  <p><strong><i>A practical stack for building modern products from interface to infrastructure.</i></strong></p>
 </div>
 
----
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <h3>◉ Frontend</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+      </div>
+      <p><strong>React • Next.js • TypeScript • Vue • Angular • Tailwind • Sass</strong></p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>⌘ Backend</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="DotNET" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+      </div>
+      <p><strong>Java • Spring Boot • C# • .NET • Node.js • Python • Django • Go</strong></p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>◆ Data</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+      </div>
+      <p><strong>PostgreSQL • MongoDB • Redis • MySQL • Kafka • Event systems</strong></p>
+    </td>
+    <td width="25%" valign="top">
+      <h3>☰ Cloud</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+        <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+        <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+        <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
+      </div>
+      <p><strong>AWS • Azure • GCP • Docker • Kubernetes • Terraform • Ansible</strong></p>
+    </td>
+  </tr>
+</table>
 
-## 🛠️ Core Skills / 主なスキル
-
-### Programming Languages / プログラミング言語
-| Language | Level | Focus |
-|----------|-------|-------|
-| **Java** | Expert | Backend, OOP, Spring Framework |
-| **C#** | Expert | Windows Apps, Game Dev, LINQ |
-| **HTML/CSS** | Advanced | Frontend, Web Design |
-| **SQL** | Advanced | Database Design, Optimization |
-
-### Specializations / 専門分野
 <div align="center">
-  <img src="https://img.shields.io/badge/Game%20Development-Unity-green?logo=unity&logoColor=white&style=flat-square" alt="Game Dev" />
-  <img src="https://img.shields.io/badge/Enterprise%20Apps-Spring%20Boot-red?logo=spring&logoColor=white&style=flat-square" alt="Enterprise" />
-  <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-blue?logo=web&logoColor=white&style=flat-square" alt="Web Dev" />
-  <img src="https://img.shields.io/badge/Database-SQL%20Management-yellow?logo=database&logoColor=white&style=flat-square" alt="Database" />
+  <h2>⚙️ Engineering Focus</h2>
 </div>
 
----
-
-## 📚 Featured Projects / 注目のプロジェクト
-
-### 1. 📖 **Book-Hub** - Book Management Platform
-<details>
-  <summary>Click to expand</summary>
-  
-  - **Technology**: Java, Spring Framework, SQL
-  - **Description**: A comprehensive library management application with advanced search and user management
-  - **Features**:
-    - ✅ Book category management
-    - ✅ User authentication system
-    - ✅ Advanced search & filtering
-  - **Links**: [Backend](https://github.com/tiendatln/Book-Hub) | [Frontend UI](https://github.com/tiendatln/Book-Hub-UI)
-</details>
-
-### 2. 🎮 **Mini-Tower-Defense** - Tower Defense Game
-<details>
-  <summary>Click to expand</summary>
-  
-  - **Technology**: C#, Unity
-  - **Description**: A fully-featured tower defense game with AI enemies and multiplayer features
-  - **Features**:
-    - 🎮 Smooth, optimized gameplay
-    - 🎵 Dynamic sound effects
-    - 🤖 Intelligent AI pathfinding
-  - **Repository**: [Mini-Tower-Defense](https://github.com/tiendatln/Mini-Tower-Defense)
-</details>
-
-### 3. 🏨 **Hotel Booking System** - Online Booking Platform
-<details>
-  <summary>Click to expand</summary>
-  
-  - **Technology**: HTML, CSS, JavaScript
-  - **Description**: Modern responsive hotel booking web application
-  - **Features**:
-    - 🏨 Room browsing & filtering
-    - 📅 Advanced booking management
-    - 💳 Secure payment integration
-  - **Repository**: [Project_Hotel_Booking](https://github.com/tiendatln/Project_Hotel_Booking)
-</details>
-
-### 4. 🍰 **BakeryShop** - Business Management Application
-<details>
-  <summary>Click to expand</summary>
-  
-  - **Technology**: C#, SQL
-  - **Description**: Complete bakery management system with POS integration
-  - **Features**:
-    - 💰 Billing & invoicing
-    - 📦 Inventory management
-    - 👥 Employee management
-  - **Repository**: [BakeryShop](https://github.com/tiendatln/BakeryShop)
-</details>
-
-### 5. 🎓 **SWP391** - Graduation Capstone Project
-<details>
-  <summary>Click to expand</summary>
-  
-  - **Technology**: Java, Spring Boot, React/Angular
-  - **Description**: Full-stack enterprise solution with modern architecture
-  - **Repository**: [SWP391](https://github.com/tiendatln/SWP391)
-</details>
-
-### Other Notable Projects
-- **Employee_application** - HR Management System
-- **JAVA_Sort** - Algorithms & Data Structures
-- **demo-LinQ** - LINQ Fundamentals
-- **tratruongai** - Web Portfolio Project
-
----
-
-## 📊 GitHub Statistics / 統計
-
 <div align="center">
-  
-  ![GitHub Stats](https://img.shields.io/badge/Public%20Repositories-13+-brightgreen?style=flat-square)
-  ![Languages](https://img.shields.io/badge/Languages-5+-blue?style=flat-square)
-  ![Stars](https://img.shields.io/badge/Total%20Stars-3+-yellow?style=flat-square)
-
+  <img src="https://img.shields.io/badge/System%20Design-Black?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/API%20Design-Black?style=for-the-badge" alt="API Design" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-Black?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/Observability-Black?style=for-the-badge" alt="Observability" />
+  <img src="https://img.shields.io/badge/Security-Black?style=for-the-badge" alt="Security" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Black?style=for-the-badge" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/UX-Black?style=for-the-badge" alt="UX" />
+  <img src="https://img.shields.io/badge/AI%20Systems-Black?style=for-the-badge" alt="AI Systems" />
 </div>
 
-**Language Distribution**:
-- Java: 30%
-- C#: 30%
-- Web (HTML/CSS/JS): 20%
-- Other: 20%
-
----
-
-## 🎓 Learning & Growth / 学習と成長
-
-I continuously improve my skills through:
-- 📖 **Microservices & Cloud** - Learning Docker, Kubernetes, AWS
-- 🔬 **Framework Exploration** - Experimenting with new tech stacks
-- 🤝 **Open Source** - Contributing to community projects
-- 📚 **Best Practices** - Studying software engineering principles
-
----
-
-## 💼 Skills Matrix / スキルマトリックス
-
-| Category | Skills | Proficiency |
-|----------|--------|-------------|
-| **Backend** | Java, Spring Boot, Spring MVC | ⭐⭐⭐⭐⭐ |
-| **Frontend** | HTML5, CSS3, JavaScript | ⭐⭐⭐⭐ |
-| **Game Dev** | Unity, C# Game Logic | ⭐⭐⭐⭐ |
-| **Database** | SQL Server, MySQL | ⭐⭐⭐⭐ |
-| **DevOps** | Git, Maven, Gradle | ⭐⭐⭐ |
-
----
-
-## 🌐 Connect With Me / つながる
+<hr />
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@tiendatln-black?logo=github&style=for-the-badge)](https://github.com/tiendatln)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lenguyentiendat/?isSelfProfile=true)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:tiendatln2212@gmail.com)
-
+  <h2>🧰 The Toolbox</h2>
 </div>
 
----
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+</div>
 
-## 🎯 Career Goals / キャリア目標
+<p align="center"><strong>Version control • Linux • Developer tooling • Design systems • Delivery • Observability</strong></p>
 
-- 🚀 Work on **large-scale, high-impact projects**
-- 🏢 Build expertise in **enterprise architecture**
-- 🎓 Learn from **senior engineers** and mentors
-- 🌍 **Contribute** to the tech community
+<p>▶ <strong>More about how I work</strong></p>
 
----
+<div>
+  <ul>
+    <li>I build systems that are reliable, scalable, and easy to evolve.</li>
+    <li>I like combining strong product thinking with practical engineering decisions.</li>
+    <li>I care about clean architecture, maintainability, and shipping value quickly.</li>
+  </ul>
+</div>
 
-## 🏆 Achievements / 実績
-
-- ✅ Completed **13+ projects** spanning multiple domains
-- ✅ Mastered **both backend and frontend** technologies
-- ✅ Delivered **game development** solutions
-- ✅ Implemented **enterprise-level systems**
-
----
-
-## 📝 Repository Structure / リポジトリ構成
-
-Each of my projects includes:
-- 📖 **Comprehensive README** with setup instructions
-- 📂 **Clean project structure** following best practices
-- 💾 **Database scripts** (when applicable)
-- 🚀 **Quick start guide** for easy onboarding
-
----
-
-## 📄 License / ライセンス
-
-My projects are released under various licenses. Please check individual repositories for license details.
-
----
-
-## 🙏 Thank You / 感謝
-
-Thank you for visiting my GitHub profile!
-
-If you like my work, please consider:
-- ⭐ **Starring** interesting repositories
-- 🔄 **Following** for updates
-- 💬 **Connecting** for collaboration
-
-**Let's build amazing things together!** 🚀
-
----
+<hr />
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=tiendatln&color=brightgreen)
-
-*Last updated: October 2026* 🌟
-
+  <h3>👋 Hi, I'm Tiến Đạt</h3>
+  <p>Full-Stack Developer | Java | C# | Web Development</p>
+  <p>I enjoy building user friendly products and backend systems that support real business needs.</p>
 </div>
