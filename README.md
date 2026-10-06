@@ -148,8 +148,8 @@ I continuously improve my skills through:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@tiendatln-black?logo=github&style=for-the-badge)](https://github.com/tiendatln)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:contact@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lenguyentiendat/?isSelfProfile=true)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:tiendatln2212@gmail.com)
 
 </div>
 
