@@ -10,10 +10,8 @@
         <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue" />
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
       </div>
-      <p><strong>HTML5 • CSS3 • JavaScript • Vue • Angular</strong></p>
+      <p><strong>HTML5 • CSS3 • JavaScript</strong></p>
     </td>
     <td width="25%" valign="top">
       <h3>⌘ Backend</h3>
@@ -32,20 +30,17 @@
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
         <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       </div>
-      <p><strong>MySQL • SQL Server • SQLite • PostgreSQL</strong></p>
+      <p><strong>MySQL • SQL Server • SQLite</strong></p>
     </td>
     <td width="25%" valign="top">
-      <h3>☰ Tools & Cloud</h3>
+      <h3>☰ Tools</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
       </div>
-      <p><strong>Git • GitHub • Docker • Azure • AWS</strong></p>
+      <p><strong>Git • GitHub • Docker</strong></p>
     </td>
   </tr>
 </table>
@@ -61,7 +56,6 @@
   <img src="https://img.shields.io/badge/OOP-Black?style=for-the-badge" alt="OOP" />
   <img src="https://img.shields.io/badge/CI%2FCD-Black?style=for-the-badge" alt="CI/CD" />
   <img src="https://img.shields.io/badge/Security-Black?style=for-the-badge" alt="Security" />
-  <img src="https://img.shields.io/badge/UX-Black?style=for-the-badge" alt="UX" />
   <img src="https://img.shields.io/badge/Game%20Dev-Black?style=for-the-badge" alt="Game Dev" />
 </div>
 
@@ -88,7 +82,7 @@
 <div>
   <ul>
     <li>I build reliable, scalable backend systems with Java Spring Boot and C# .NET.</li>
-    <li>I create responsive web applications using HTML5, CSS3, JavaScript, Vue, and Angular.</li>
+    <li>I create responsive web applications using HTML5, CSS3, and JavaScript.</li>
     <li>I develop engaging games with Unity and C#.</li>
     <li>I design efficient database systems and optimize queries for performance.</li>
     <li>I care about clean code, SOLID principles, and maintainability.</li>
