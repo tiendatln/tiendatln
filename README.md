@@ -10,8 +10,9 @@
         <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       </div>
-      <p><strong>HTML5 • CSS3 • JavaScript</strong></p>
+      <p><strong>HTML5 • CSS3 • JavaScript • React</strong></p>
     </td>
     <td width="25%" valign="top">
       <h3>⌘ Backend</h3>
@@ -82,7 +83,7 @@
 <div>
   <ul>
     <li>I build reliable, scalable backend systems with Java Spring Boot and C# .NET.</li>
-    <li>I create responsive web applications using HTML5, CSS3, and JavaScript.</li>
+    <li>I create responsive web applications using React, HTML5, CSS3, and JavaScript.</li>
     <li>I develop engaging games with Unity and C#.</li>
     <li>I design efficient database systems and optimize queries for performance.</li>
     <li>I care about clean code, SOLID principles, and maintainability.</li>
