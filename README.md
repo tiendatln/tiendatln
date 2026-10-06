@@ -1,150 +1,211 @@
 # 👋 Hello, I'm Tiến Đạt / こんにちは、ティエン・ダットです
 
-**Full-Stack Developer | Java | C# | Web Development / フルスタック開発者 | Java | C# | Web開発**
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-Java%20%7C%20C%23%20%7C%20Web-blue?style=for-the-badge&logo=github" alt="Developer Badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-brightgreen?style=for-the-badge" alt="Status Badge" />
+</p>
 
-Welcome to my GitHub profile! I am a versatile programmer with experience in backend, frontend, and game development. I am passionate about building practical, scalable, and user-friendly software solutions. / GitHubへようこそ！私はバックエンド、フロントエンド、ゲーム開発に携わった経験を持つマルチスキルなプログラマーです。実用的でスケーラブル、使いやすいソフトウェアを作ることに情熱を注いでいます。
+<div align="center">
+  <h3>Full-Stack Developer | Java | C# | Web Development / フルスタック開発者 | Java | C# | Web開発</h3>
+  <p>Welcome to my GitHub profile! I am a versatile programmer with experience in backend, frontend, and game development. I am passionate about building practical, scalable, and user-friendly software solutions.</p>
+</div>
 
 ---
 
 ## 🛠️ Core Skills / 主なスキル
 
 ### Programming Languages / プログラミング言語
-- **Java** - Backend development, OOP, Spring Framework / バックエンド開発、オブジェクト指向、Spring Framework
-- **C#** - Windows applications, Game Development, LINQ / Windowsアプリ開発、ゲーム開発、LINQ
-- **HTML/CSS** - Frontend development, Web design / フロントエンド開発、Webデザイン
-- **SQL** - Database design and optimization / データベース設計と最適化
+| Language | Level | Focus |
+|----------|-------|-------|
+| **Java** | Expert | Backend, OOP, Spring Framework |
+| **C#** | Expert | Windows Apps, Game Dev, LINQ |
+| **HTML/CSS** | Advanced | Frontend, Web Design |
+| **SQL** | Advanced | Database Design, Optimization |
 
 ### Specializations / 専門分野
-- 🎮 Game Development (Unity) / ゲーム開発（Unity）
-- 🏢 Enterprise Applications / エンタープライズアプリケーション
-- 📱 Web Applications / Webアプリケーション
-- 📊 Database Management / データベース管理
-- 🏗️ Software Architecture / ソフトウェアアーキテクチャ
+<div align="center">
+  <img src="https://img.shields.io/badge/Game%20Development-Unity-green?logo=unity&logoColor=white&style=flat-square" alt="Game Dev" />
+  <img src="https://img.shields.io/badge/Enterprise%20Apps-Spring%20Boot-red?logo=spring&logoColor=white&style=flat-square" alt="Enterprise" />
+  <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-blue?logo=web&logoColor=white&style=flat-square" alt="Web Dev" />
+  <img src="https://img.shields.io/badge/Database-SQL%20Management-yellow?logo=database&logoColor=white&style=flat-square" alt="Database" />
+</div>
 
 ---
 
 ## 📚 Featured Projects / 注目のプロジェクト
 
-### 1. **Book-Hub** - Book Management Platform / 書籍管理プラットフォーム
-- **Technology**: Java, Spring Framework, SQL / 技術: Java, Spring Framework, SQL
-- **Description**: A library management application with search, filtering, and user management features / 説明: 書籍検索、フィルタリング、ユーザー管理機能を備えた図書管理アプリ
-- **Features**:
-  - ✅ Book category management / 書籍カテゴリ管理
-  - ✅ User system / ユーザー管理
-  - ✅ Advanced search / 高度な検索
-- **Repository**: [Book-Hub](https://github.com/tiendatln/Book-Hub) | [UI](https://github.com/tiendatln/Book-Hub-UI)
+### 1. 📖 **Book-Hub** - Book Management Platform
+<details>
+  <summary>Click to expand</summary>
+  
+  - **Technology**: Java, Spring Framework, SQL
+  - **Description**: A comprehensive library management application with advanced search and user management
+  - **Features**:
+    - ✅ Book category management
+    - ✅ User authentication system
+    - ✅ Advanced search & filtering
+  - **Links**: [Backend](https://github.com/tiendatln/Book-Hub) | [Frontend UI](https://github.com/tiendatln/Book-Hub-UI)
+</details>
 
-### 2. **Mini-Tower-Defense** - Tower Defense Game / タワーディフェンスゲーム
-- **Technology**: C#, Unity / 技術: C#, Unity
-- **Description**: A tower defense game with enemy AI, sound effects, and friend system / 説明: 敵AI、サウンドエフェクト、フレンドシステムを搭載したタワーディフェンスゲーム
-- **Features**:
-  - 🎮 Smooth gameplay / スムーズなゲームプレイ
-  - 🎵 Sound effects / 効果音
-  - 🤖 Smart AI / スマートなAI
-- **Repository**: [Mini-Tower-Defense](https://github.com/tiendatln/Mini-Tower-Defense)
+### 2. 🎮 **Mini-Tower-Defense** - Tower Defense Game
+<details>
+  <summary>Click to expand</summary>
+  
+  - **Technology**: C#, Unity
+  - **Description**: A fully-featured tower defense game with AI enemies and multiplayer features
+  - **Features**:
+    - 🎮 Smooth, optimized gameplay
+    - 🎵 Dynamic sound effects
+    - 🤖 Intelligent AI pathfinding
+  - **Repository**: [Mini-Tower-Defense](https://github.com/tiendatln/Mini-Tower-Defense)
+</details>
 
-### 3. **Hotel Booking System** - Hotel Booking Website / ホテル予約システム
-- **Technology**: HTML, CSS, JavaScript / 技術: HTML, CSS, JavaScript
-- **Description**: A hotel booking web application with a responsive interface / 説明: レスポンシブデザインのホテル予約Webアプリ
-- **Features**:
-  - 🏨 Room browsing / 宿泊施設の閲覧
-  - 📅 Booking management / 予約管理
-  - 💳 Payment system / 決済システム
-- **Repository**: [Project_Hotel_Booking](https://github.com/tiendatln/Project_Hotel_Booking)
+### 3. 🏨 **Hotel Booking System** - Online Booking Platform
+<details>
+  <summary>Click to expand</summary>
+  
+  - **Technology**: HTML, CSS, JavaScript
+  - **Description**: Modern responsive hotel booking web application
+  - **Features**:
+    - 🏨 Room browsing & filtering
+    - 📅 Advanced booking management
+    - 💳 Secure payment integration
+  - **Repository**: [Project_Hotel_Booking](https://github.com/tiendatln/Project_Hotel_Booking)
+</details>
 
-### 4. **BakeryShop** - Bakery Management Application / ベーカリー管理アプリ
-- **Technology**: C#, SQL / 技術: C#, SQL
-- **Description**: A bakery management system including billing, inventory, and employee management / 説明: 請求書、在庫、従業員管理を含むベーカリー管理ソフトウェア
-- **Repository**: [BakeryShop](https://github.com/tiendatln/BakeryShop)
+### 4. 🍰 **BakeryShop** - Business Management Application
+<details>
+  <summary>Click to expand</summary>
+  
+  - **Technology**: C#, SQL
+  - **Description**: Complete bakery management system with POS integration
+  - **Features**:
+    - 💰 Billing & invoicing
+    - 📦 Inventory management
+    - 👥 Employee management
+  - **Repository**: [BakeryShop](https://github.com/tiendatln/BakeryShop)
+</details>
 
-### 5. **SWP391** - Graduation Project / 卒業制作
-- **Technology**: Java, Spring Boot, React/Angular / 技術: Java, Spring Boot, React/Angular
-- **Description**: A capstone project with full-stack architecture / 説明: フルスタックアーキテクチャを採用したキャップストーンプロジェクト
-- **Repository**: [SWP391](https://github.com/tiendatln/SWP391)
+### 5. 🎓 **SWP391** - Graduation Capstone Project
+<details>
+  <summary>Click to expand</summary>
+  
+  - **Technology**: Java, Spring Boot, React/Angular
+  - **Description**: Full-stack enterprise solution with modern architecture
+  - **Repository**: [SWP391](https://github.com/tiendatln/SWP391)
+</details>
 
-### Other Projects / その他のプロジェクト
-- **Employee_application** - Human resource management / 人事管理
-- **JAVA_Sort** - Algorithms & Data Structures / アルゴリズムとデータ構造
-- **demo-LinQ** - LINQ fundamentals with C# / C#で学ぶLINQ基礎
-- **tratruongai** - Web project / Webプロジェクト
+### Other Notable Projects
+- **Employee_application** - HR Management System
+- **JAVA_Sort** - Algorithms & Data Structures
+- **demo-LinQ** - LINQ Fundamentals
+- **tratruongai** - Web Portfolio Project
 
 ---
 
-## 📊 Statistics & Achievements / 統計と実績
+## 📊 GitHub Statistics / 統計
 
-- 🌟 **13+** public repositories / 公開リポジトリ数: 13件以上
-- 💻 **Main languages**: Java (30%), C# (30%), Web (20%), Other (20%) / 主な言語: Java (30%)、C# (30%)、Web (20%)、その他 (20%)
-- 🎯 **Focus**: Full-Stack Development, Game Development, Enterprise Solutions / 焦点: フルスタック開発、ゲーム開発、エンタープライズソリューション
+<div align="center">
+  
+  ![GitHub Stats](https://img.shields.io/badge/Public%20Repositories-13+-brightgreen?style=flat-square)
+  ![Languages](https://img.shields.io/badge/Languages-5+-blue?style=flat-square)
+  ![Stars](https://img.shields.io/badge/Total%20Stars-3+-yellow?style=flat-square)
+
+</div>
+
+**Language Distribution**:
+- Java: 30%
+- C#: 30%
+- Web (HTML/CSS/JS): 20%
+- Other: 20%
 
 ---
 
 ## 🎓 Learning & Growth / 学習と成長
 
 I continuously improve my skills through:
-- 📖 Learning new technologies (microservices, cloud, DevOps) / 新しい技術を学ぶ（マイクロサービス、クラウド、DevOps）
-- 🔬 Experimenting with new frameworks and libraries / 新しいフレームワークやライブラリを試す
-- 🤝 Participating in open-source projects / オープンソースプロジェクトに参加する
-- 📚 Studying best practices in software engineering / ソフトウェアエンジニアリングのベストプラクティスを学ぶ
+- 📖 **Microservices & Cloud** - Learning Docker, Kubernetes, AWS
+- 🔬 **Framework Exploration** - Experimenting with new tech stacks
+- 🤝 **Open Source** - Contributing to community projects
+- 📚 **Best Practices** - Studying software engineering principles
 
 ---
 
-## 🌐 Connect / つながる
+## 💼 Skills Matrix / スキルマトリックス
 
-- 📧 **Email**: [contact via GitHub] / メール: [GitHub経由でお問い合わせ]
-- 🔗 **GitHub**: [@tiendatln](https://github.com/tiendatln)
-- 💼 **Interests**: Backend development, Game development, System design / 興味分野: バックエンド開発、ゲーム開発、システム設計
+| Category | Skills | Proficiency |
+|----------|--------|-------------|
+| **Backend** | Java, Spring Boot, Spring MVC | ⭐⭐⭐⭐⭐ |
+| **Frontend** | HTML5, CSS3, JavaScript | ⭐⭐⭐⭐ |
+| **Game Dev** | Unity, C# Game Logic | ⭐⭐⭐⭐ |
+| **Database** | SQL Server, MySQL | ⭐⭐⭐⭐ |
+| **DevOps** | Git, Maven, Gradle | ⭐⭐⭐ |
+
+---
+
+## 🌐 Connect With Me / つながる
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-@tiendatln-black?logo=github&style=for-the-badge)](https://github.com/tiendatln)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge)](mailto:contact@example.com)
+
+</div>
 
 ---
 
 ## 🎯 Career Goals / キャリア目標
 
-I am currently looking for opportunities to:
-- 🚀 Work on large, high-impact projects / 大規模でインパクトの大きいプロジェクトに携わる
-- 🏢 Build expertise in enterprise development / エンタープライズ開発の経験を積む
-- 🎓 Learn from senior engineers / シニアエンジニアから学ぶ
-- 🌍 Contribute to the tech community / 技術コミュニティに貢献する
+- 🚀 Work on **large-scale, high-impact projects**
+- 🏢 Build expertise in **enterprise architecture**
+- 🎓 Learn from **senior engineers** and mentors
+- 🌍 **Contribute** to the tech community
 
 ---
 
-## 💡 What I Have Learned / 学んだこと
+## 🏆 Achievements / 実績
 
-### Best Practices / ベストプラクティス
-- Clean Code & SOLID Principles / クリーンコードとSOLID原則
-- Design Patterns (MVC, Repository, Factory, etc.) / デザインパターン（MVC、Repository、Factoryなど）
-- Test-Driven Development / テスト駆動開発
-- Version Control (Git) / バージョン管理（Git）
-
-### Tools & Platforms / ツールとプラットフォーム
-- **IDEs**: Visual Studio, IntelliJ IDEA, VS Code / IDE: Visual Studio, IntelliJ IDEA, VS Code
-- **Database**: SQL Server, MySQL / データベース: SQL Server, MySQL
-- **Version Control**: Git, GitHub / バージョン管理: Git, GitHub
-- **Tools**: Maven, Gradle, NuGet / ツール: Maven, Gradle, NuGet
+- ✅ Completed **13+ projects** spanning multiple domains
+- ✅ Mastered **both backend and frontend** technologies
+- ✅ Delivered **game development** solutions
+- ✅ Implemented **enterprise-level systems**
 
 ---
 
-## 📝 How I Use My Repositories / リポジトリの使い方
+## 📝 Repository Structure / リポジトリ構成
 
-Most of my repositories include:
-- 📖 Detailed README (setup instructions) / 詳細なREADME（セットアップ手順）
-- 📂 Clear project structure / 明確なプロジェクト構成
-- 💾 Database scripts (if applicable) / データベーススクリプト（必要な場合）
-- 🚀 Quick start guide / クイックスタートガイド
+Each of my projects includes:
+- 📖 **Comprehensive README** with setup instructions
+- 📂 **Clean project structure** following best practices
+- 💾 **Database scripts** (when applicable)
+- 🚀 **Quick start guide** for easy onboarding
 
 ---
 
 ## 📄 License / ライセンス
 
-My projects are released under different licenses depending on the repository. Please check each repository for details. / 私のプロジェクトはリポジトリごとに異なるライセンスのもとで公開されています。詳細は各リポジトリをご確認ください。
+My projects are released under various licenses. Please check individual repositories for license details.
 
 ---
 
 ## 🙏 Thank You / 感謝
 
-Thank you for visiting my GitHub profile! / GitHubプロフィールをご覧いただきありがとうございます。
-If you like my projects, please ⭐ star them. / 気に入っていただけたら、ぜひ各プロジェクトに⭐を付けてください。
+Thank you for visiting my GitHub profile!
 
-**Let’s connect and build amazing things together!** 🚀 / **ぜひつながって、一緒に素晴らしいものを作りましょう！** 🚀
+If you like my work, please consider:
+- ⭐ **Starring** interesting repositories
+- 🔄 **Following** for updates
+- 💬 **Connecting** for collaboration
+
+**Let's build amazing things together!** 🚀
 
 ---
 
-*Last updated: 2026 / 最終更新: 2026*
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=tiendatln&color=brightgreen)
+
+*Last updated: October 2026* 🌟
+
+</div>
